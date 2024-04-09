@@ -644,7 +644,7 @@ section.experience{
 }
 
 .experience__img {
-    width: 100%;
+    width: 600px;
 }
 
 .experience__text {
@@ -668,6 +668,7 @@ section.formcontato{
 
 .formcontato__img {
     display: none;
+    padding: 20px;
 }
 
 .formcontato__title {
